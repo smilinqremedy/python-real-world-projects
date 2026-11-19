@@ -46,7 +46,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **21** | [Microfinance Loan Management System](21-microfinance-loan-management/) | `21-microfinance-loan-management/` | SQLite | Financial Credit & Lending | :white_check_mark: Complete |
 | **22** | [Pharmacy Inventory & Sales System](22-pharmacy-inventory-management/) | `22-pharmacy-inventory-management/` | SQLite | Healthcare & Pharmaceuticals | :white_check_mark: Complete |
 | **23** | [School Fee Payment Management System](23-school-fee-management/) | `23-school-fee-management/` | SQLite | Education & Tuition Billing | :white_check_mark: Complete |
-| **24** | [Internet Cafe Management System](24-internet-cafe-management/) | `24-internet-cafe-management/` | SQLite | Hospitality & IT Terminals | :hourglass: Planned |
+| **24** | [Internet Cafe Management System](24-internet-cafe-management/) | `24-internet-cafe-management/` | SQLite | Hospitality & IT Terminals | :white_check_mark: Complete |
 | **25** | [Logistics & Shipment Tracking System](25-logistics-shipment-tracking/) | `25-logistics-shipment-tracking/` | SQLite | Freight, Courier & Logistics | :hourglass: Planned |
 
 ---
