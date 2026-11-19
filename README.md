@@ -42,7 +42,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **17** | [Event Registration & Ticketing System](17-event-ticketing/) | `17-event-ticketing/` | SQLite | Events & Ticketing | :white_check_mark: Complete |
 | **18** | [Agricultural Produce Trading System](18-agricultural-trading/) | `18-agricultural-trading/` | SQLite | Agribusiness & Supply Chain | :white_check_mark: Complete |
 | **19** | [Technical Repair Service Management](19-technical-repair/) | `19-technical-repair/` | SQLite | Repair & Warranty Services | :white_check_mark: Complete |
-| **20** | [Donation & Charity Management System](20-charity-management/) | `20-charity-management/` | SQLite | Non-Profit & Fundraising | :hourglass: Planned |
+| **20** | [Donation & Charity Management System](20-charity-management/) | `20-charity-management/` | SQLite | Non-Profit & Fundraising | :white_check_mark: Complete |
 
 ---
 
