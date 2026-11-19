@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-26%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-27%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -49,6 +49,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **24** | [Internet Cafe Management System](24-internet-cafe-management/) | `24-internet-cafe-management/` | SQLite | Hospitality & IT Terminals | :white_check_mark: Complete |
 | **25** | [Logistics & Shipment Tracking System](25-logistics-shipment-tracking/) | `25-logistics-shipment-tracking/` | SQLite | Freight, Courier & Logistics | :white_check_mark: Complete |
 | **31** | [Online Examination Management System](31-online-examination-system/) | `31-online-examination-system/` | SQLite | Education & Assessments | :white_check_mark: Complete |
+| **32** | [Automated Email Notification System](32-automated-email-notification/) | `32-automated-email-notification/` | SQLite & smtplib | Communication & Automation | :white_check_mark: Complete |
 
 ---
 
