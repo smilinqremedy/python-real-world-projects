@@ -26,7 +26,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **01** | [Expense & Budget Tracker](01-expense-budget-tracker/) | `01-expense-budget-tracker/` | JSON | Personal Finance | :white_check_mark: Complete |
 | **02** | [Inventory Management System](02-inventory-management/) | `02-inventory-management/` | JSON | Retail & Inventory | :white_check_mark: Complete |
 | **03** | [Student Result Management System](03-student-result-management/) | `03-student-result-management/` | JSON | Academic Records | :white_check_mark: Complete |
-| **04** | [Hospital Appointment Management System](04-hospital-appointment/) | `04-hospital-appointment/` | SQLite | Healthcare Scheduling | :hourglass: In Progress |
+| **04** | [Hospital Appointment Management System](04-hospital-appointment/) | `04-hospital-appointment/` | SQLite | Healthcare Scheduling | :white_check_mark: Complete |
 | **05** | [Electricity & Household Power Tracker](05-electricity-tracker/) | `05-electricity-tracker/` | SQLite | Utility Management | :hourglass: In Progress |
 | **06** | [Job Application Tracking System](06-job-application-tracker/) | `06-job-application-tracker/` | JSON | Career & Recruitment | :hourglass: In Progress |
 | **07** | [Queue Management System](07-queue-management/) | `07-queue-management/` | SQLite | Operations & Queuing | :hourglass: In Progress |
