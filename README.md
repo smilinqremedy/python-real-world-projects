@@ -33,7 +33,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **08** | [Personal Document Expiry Reminder](08-document-expiry-reminder/) | `08-document-expiry-reminder/` | JSON | Document Compliance | :white_check_mark: Complete |
 | **09** | [Customer Support Ticket System](09-customer-support-tickets/) | `09-customer-support-tickets/` | SQLite | Customer Service CRM | :white_check_mark: Complete |
 | **10** | [Sales & Profit Analysis System](10-sales-profit-analysis/) | `10-sales-profit-analysis/` | SQLite | Financial Analytics | :white_check_mark: Complete |
-| **11** | [Property Rental Management System](11-property-rental/) | `11-property-rental/` | SQLite | Real Estate & Leasing | :hourglass: Planned |
+| **11** | [Property Rental Management System](11-property-rental/) | `11-property-rental/` | SQLite | Real Estate & Leasing | :white_check_mark: Complete |
 | **12** | [Restaurant Order Management System](12-restaurant-order-management/) | `12-restaurant-order-management/` | SQLite | Food & Hospitality | :hourglass: Planned |
 | **13** | [Employee Attendance Management System](13-employee-attendance/) | `13-employee-attendance/` | SQLite | Human Resources & Workforce | :hourglass: Planned |
 | **14** | [Laundry Service Management System](14-laundry-management/) | `14-laundry-management/` | SQLite | Service & Operations | :hourglass: Planned |
