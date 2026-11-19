@@ -30,7 +30,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **05** | [Electricity & Household Power Tracker](05-electricity-tracker/) | `05-electricity-tracker/` | SQLite | Utility Management | :white_check_mark: Complete |
 | **06** | [Job Application Tracking System](06-job-application-tracker/) | `06-job-application-tracker/` | JSON | Career & Recruitment | :white_check_mark: Complete |
 | **07** | [Queue Management System](07-queue-management/) | `07-queue-management/` | SQLite | Operations & Queuing | :white_check_mark: Complete |
-| **08** | [Personal Document Expiry Reminder](08-document-expiry-reminder/) | `08-document-expiry-reminder/` | JSON | Document Compliance | :hourglass: In Progress |
+| **08** | [Personal Document Expiry Reminder](08-document-expiry-reminder/) | `08-document-expiry-reminder/` | JSON | Document Compliance | :white_check_mark: Complete |
 | **09** | [Customer Support Ticket System](09-customer-support-tickets/) | `09-customer-support-tickets/` | SQLite | Customer Service CRM | :hourglass: In Progress |
 | **10** | [Sales & Profit Analysis System](10-sales-profit-analysis/) | `10-sales-profit-analysis/` | SQLite | Financial Analytics | :hourglass: In Progress |
 | **11** | [Property Rental Management System](11-property-rental/) | `11-property-rental/` | SQLite | Real Estate & Leasing | :hourglass: Planned |
