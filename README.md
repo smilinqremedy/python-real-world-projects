@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-20%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-25%20Complete-brightgreen.svg)](#portfolio-projects)
 
-A curated collection of **20 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
+A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
 ---
 
@@ -47,7 +47,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **22** | [Pharmacy Inventory & Sales System](22-pharmacy-inventory-management/) | `22-pharmacy-inventory-management/` | SQLite | Healthcare & Pharmaceuticals | :white_check_mark: Complete |
 | **23** | [School Fee Payment Management System](23-school-fee-management/) | `23-school-fee-management/` | SQLite | Education & Tuition Billing | :white_check_mark: Complete |
 | **24** | [Internet Cafe Management System](24-internet-cafe-management/) | `24-internet-cafe-management/` | SQLite | Hospitality & IT Terminals | :white_check_mark: Complete |
-| **25** | [Logistics & Shipment Tracking System](25-logistics-shipment-tracking/) | `25-logistics-shipment-tracking/` | SQLite | Freight, Courier & Logistics | :hourglass: Planned |
+| **25** | [Logistics & Shipment Tracking System](25-logistics-shipment-tracking/) | `25-logistics-shipment-tracking/` | SQLite | Freight, Courier & Logistics | :white_check_mark: Complete |
 
 ---
 
