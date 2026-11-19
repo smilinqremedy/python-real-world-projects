@@ -44,7 +44,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **19** | [Technical Repair Service Management](19-technical-repair/) | `19-technical-repair/` | SQLite | Repair & Warranty Services | :white_check_mark: Complete |
 | **20** | [Donation & Charity Management System](20-charity-management/) | `20-charity-management/` | SQLite | Non-Profit & Fundraising | :white_check_mark: Complete |
 | **21** | [Microfinance Loan Management System](21-microfinance-loan-management/) | `21-microfinance-loan-management/` | SQLite | Financial Credit & Lending | :white_check_mark: Complete |
-| **22** | [Pharmacy Inventory & Sales System](22-pharmacy-inventory-management/) | `22-pharmacy-inventory-management/` | SQLite | Healthcare & Pharmaceuticals | :hourglass: Planned |
+| **22** | [Pharmacy Inventory & Sales System](22-pharmacy-inventory-management/) | `22-pharmacy-inventory-management/` | SQLite | Healthcare & Pharmaceuticals | :white_check_mark: Complete |
 | **23** | [School Fee Payment Management System](23-school-fee-management/) | `23-school-fee-management/` | SQLite | Education & Tuition Billing | :hourglass: Planned |
 | **24** | [Internet Cafe Management System](24-internet-cafe-management/) | `24-internet-cafe-management/` | SQLite | Hospitality & IT Terminals | :hourglass: Planned |
 | **25** | [Logistics & Shipment Tracking System](25-logistics-shipment-tracking/) | `25-logistics-shipment-tracking/` | SQLite | Freight, Courier & Logistics | :hourglass: Planned |
