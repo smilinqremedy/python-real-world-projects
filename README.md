@@ -38,7 +38,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **13** | [Employee Attendance Management System](13-employee-attendance/) | `13-employee-attendance/` | SQLite | Human Resources & Workforce | :white_check_mark: Complete |
 | **14** | [Laundry Service Management System](14-laundry-management/) | `14-laundry-management/` | SQLite | Service & Operations | :white_check_mark: Complete |
 | **15** | [Vehicle Maintenance Tracking System](15-vehicle-maintenance/) | `15-vehicle-maintenance/` | SQLite | Fleet & Automotive | :white_check_mark: Complete |
-| **16** | [Water Delivery Management System](16-water-delivery/) | `16-water-delivery/` | SQLite | Logistics & Route Distribution | :hourglass: Planned |
+| **16** | [Water Delivery Management System](16-water-delivery/) | `16-water-delivery/` | SQLite | Logistics & Route Distribution | :white_check_mark: Complete |
 | **17** | [Event Registration & Ticketing System](17-event-ticketing/) | `17-event-ticketing/` | SQLite | Events & Ticketing | :hourglass: Planned |
 | **18** | [Agricultural Produce Trading System](18-agricultural-trading/) | `18-agricultural-trading/` | SQLite | Agribusiness & Supply Chain | :hourglass: Planned |
 | **19** | [Technical Repair Service Management](19-technical-repair/) | `19-technical-repair/` | SQLite | Repair & Warranty Services | :hourglass: Planned |
