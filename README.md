@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-29%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-30%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -52,6 +52,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **32** | [Automated Email Notification System](32-automated-email-notification/) | `32-automated-email-notification/` | SQLite & smtplib | Communication & Automation | :white_check_mark: Complete |
 | **33** | [Real Estate Property Listing & Search System](33-real-estate-property-listing/) | `33-real-estate-property-listing/` | SQLite | Real Estate & Brokerage | :white_check_mark: Complete |
 | **41** | [Hospital Patient Records Management System](41-hospital-patient-records/) | `41-hospital-patient-records/` | SQLite | Healthcare & Clinical Records | :white_check_mark: Complete |
+| **42** | [Nigerian Tax & Business Revenue Calculator](42-nigerian-business-finance-calculator/) | `42-nigerian-business-finance-calculator/` | SQLite & CSV/PDF | Financial Calculations & Tax | :white_check_mark: Complete |
 
 ---
 
