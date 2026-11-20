@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-32%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-33%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -55,6 +55,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **42** | [Nigerian Tax & Business Revenue Calculator](42-nigerian-business-finance-calculator/) | `42-nigerian-business-finance-calculator/` | SQLite & CSV/PDF | Financial Calculations & Tax | :white_check_mark: Complete |
 | **43** | [Job Recruitment & Applicant Tracking System](43-job-recruitment-tracker/) | `43-job-recruitment-tracker/` | SQLite & Local File Storage | Career, HR & Recruitment | :white_check_mark: Complete |
 | **51** | [Hospital Pharmacy Prescription Management](51-hospital-pharmacy-prescription-management/) | `51-hospital-pharmacy-prescription-management/` | SQLite | Healthcare & Pharmaceuticals | :white_check_mark: Complete |
+| **52** | [Automated Job Application Email Assistant](52-job-application-email-assistant/) | `52-job-application-email-assistant/` | SQLite & smtplib | Communication & Automation | :white_check_mark: Complete |
 
 ---
 
