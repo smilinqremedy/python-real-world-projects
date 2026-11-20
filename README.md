@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-36%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-37%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -59,6 +59,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **53** | [Digital Asset & Equipment Assignment Tracker](53-digital-asset-assignment-tracker/) | `53-digital-asset-assignment-tracker/` | SQLite | IT Operations & Asset Tracking | :white_check_mark: Complete |
 | **54** | [Website Contact Form Spam Detection](54-contact-form-spam-detection/) | `54-contact-form-spam-detection/` | SQLite | Web Security & Form Moderation | :white_check_mark: Complete |
 | **55** | [Fuel Station Sales & Tank Monitoring](55-fuel-station-sales-monitoring/) | `55-fuel-station-sales-monitoring/` | SQLite & Decimal | Petroleum Retail & Inventory | :white_check_mark: Complete |
+| **56** | [Personal Password Security Audit Tool](56-password-security-audit-tool/) | `56-password-security-audit-tool/` | Local In-Memory | Cybersecurity & Audit | :white_check_mark: Complete |
 
 ---
 
