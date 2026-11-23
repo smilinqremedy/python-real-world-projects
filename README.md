@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-54%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-55%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -77,6 +77,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **71** | [Bank Loan Default Prediction System](71-bank-loan-default-prediction/) | `71-bank-loan-default-prediction/` | Scikit-learn, Pandas & SQLite | Financial Credit Risk & Machine Learning | :white_check_mark: Complete |
 | **72** | [House Price Prediction System](72-house-price-prediction/) | `72-house-price-prediction/` | Scikit-learn, Pandas & Streamlit | Real Estate Valuation & Regression | :white_check_mark: Complete |
 | **73** | [Customer Churn Prediction System](73-customer-churn-prediction/) | `73-customer-churn-prediction/` | Scikit-learn, Pandas & SQLite | Customer Retention & Classification | :white_check_mark: Complete |
+| **74** | [Email Spam Classification System](74-email-spam-classification/) | `74-email-spam-classification/` | Scikit-learn, TF-IDF & SQLite | Natural Language Processing & Cyber Defense | :white_check_mark: Complete |
 
 ---
 
