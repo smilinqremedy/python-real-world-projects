@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-57%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-58%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -80,6 +80,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **74** | [Email Spam Classification System](74-email-spam-classification/) | `74-email-spam-classification/` | Scikit-learn, TF-IDF & SQLite | Natural Language Processing & Cyber Defense | :white_check_mark: Complete |
 | **81** | [Road Accident Severity Prediction](81-road-accident-severity-prediction/) | `81-road-accident-severity-prediction/` | Scikit-learn, Pandas & SQLite | Transportation Safety & Classification | :white_check_mark: Complete |
 | **82** | [Facial Expression Recognition System](82-facial-expression-recognition/) | `82-facial-expression-recognition/` | PyTorch, OpenCV & CNN | Computer Vision & Affective Analysis | :white_check_mark: Complete |
+| **83** | [Electricity Consumption Forecasting](83-electricity-consumption-forecasting/) | `83-electricity-consumption-forecasting/` | Statsmodels, Scikit-learn & ARIMA | Time-Series Forecasting & Energy | :white_check_mark: Complete |
 
 ---
 
