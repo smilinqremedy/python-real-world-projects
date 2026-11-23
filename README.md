@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-50%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-51%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -73,6 +73,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **67** | [Phishing Email Detection & Analysis](67-phishing-email-detection-analysis/) | `67-phishing-email-detection-analysis/` | Python EML & SQLite | Email Security & Threat Analysis | :white_check_mark: Complete |
 | **68** | [USB Device Activity Monitor & Audit](68-usb-device-activity-monitor/) | `68-usb-device-activity-monitor/` | Python & SQLite | Endpoint Hardware & Removable Media | :white_check_mark: Complete |
 | **69** | [Vulnerability Risk Prioritization](69-vulnerability-risk-prioritization/) | `69-vulnerability-risk-prioritization/` | FastAPI, Pandas & SQLite | Vulnerability Management & DevSecOps | :white_check_mark: Complete |
+| **70** | [Security Log Correlation & Threat Hunting](70-security-log-correlation-threat-hunting/) | `70-security-log-correlation-threat-hunting/` | Python SIEM & SQLite | SOC & Multi-Stage Threat Hunting | :white_check_mark: Complete |
 
 ---
 
