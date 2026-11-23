@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-43%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-44%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -66,6 +66,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **60** | [Supplier Purchase Order Management](60-supplier-purchase-order-management/) | `60-supplier-purchase-order-management/` | SQLite | Procurement, Inventory & Supply Chain | :white_check_mark: Complete |
 | **61** | [Network Intrusion Detection System](61-network-intrusion-detection-system/) | `61-network-intrusion-detection-system/` | Scapy & SQLite | Cybersecurity & Network Defense | :white_check_mark: Complete |
 | **62** | [Digital Forensics File Metadata Analyzer](62-digital-forensics-metadata-analyzer/) | `62-digital-forensics-metadata-analyzer/` | Python Hashlib & SQLite | Digital Forensics & Integrity | :white_check_mark: Complete |
+| **63** | [Security Incident Response Management](63-security-incident-response-management/) | `63-security-incident-response-management/` | Python OOP & SQLite | SOC & Incident Handling | :white_check_mark: Complete |
 
 ---
 
