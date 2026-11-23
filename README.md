@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-52%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-53%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -75,6 +75,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **69** | [Vulnerability Risk Prioritization](69-vulnerability-risk-prioritization/) | `69-vulnerability-risk-prioritization/` | FastAPI, Pandas & SQLite | Vulnerability Management & DevSecOps | :white_check_mark: Complete |
 | **70** | [Security Log Correlation & Threat Hunting](70-security-log-correlation-threat-hunting/) | `70-security-log-correlation-threat-hunting/` | Python SIEM & SQLite | SOC & Multi-Stage Threat Hunting | :white_check_mark: Complete |
 | **71** | [Bank Loan Default Prediction System](71-bank-loan-default-prediction/) | `71-bank-loan-default-prediction/` | Scikit-learn, Pandas & SQLite | Financial Credit Risk & Machine Learning | :white_check_mark: Complete |
+| **72** | [House Price Prediction System](72-house-price-prediction/) | `72-house-price-prediction/` | Scikit-learn, Pandas & Streamlit | Real Estate Valuation & Regression | :white_check_mark: Complete |
 
 ---
 
