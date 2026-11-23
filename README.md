@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-45%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-46%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -68,6 +68,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **62** | [Digital Forensics File Metadata Analyzer](62-digital-forensics-metadata-analyzer/) | `62-digital-forensics-metadata-analyzer/` | Python Hashlib & SQLite | Digital Forensics & Integrity | :white_check_mark: Complete |
 | **63** | [Security Incident Response Management](63-security-incident-response-management/) | `63-security-incident-response-management/` | Python OOP & SQLite | SOC & Incident Handling | :white_check_mark: Complete |
 | **64** | [Web Security Header Scanner](64-web-security-header-scanner/) | `64-web-security-header-scanner/` | Requests & JSON/HTML | Web Application Security | :white_check_mark: Complete |
+| **65** | [Fileless Malware Behavior Detection](65-fileless-malware-behavior-detection/) | `65-fileless-malware-behavior-detection/` | Python EDR & SQLite | Endpoint Security & Threat Detection | :white_check_mark: Complete |
 
 ---
 
