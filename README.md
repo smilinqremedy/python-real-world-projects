@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-41%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-42%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -64,6 +64,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **58** | [CSV Data Cleaning & Validation Tool](58-csv-data-cleaning-validation-tool/) | `58-csv-data-cleaning-validation-tool/` | Pandas & CSV | Data Engineering & Cleansing | :white_check_mark: Complete |
 | **59** | [API Rate Limiting & Monitoring System](59-api-rate-limiting-monitoring/) | `59-api-rate-limiting-monitoring/` | FastAPI & SQLite | Web Security & API Traffic Control | :white_check_mark: Complete |
 | **60** | [Supplier Purchase Order Management](60-supplier-purchase-order-management/) | `60-supplier-purchase-order-management/` | SQLite | Procurement, Inventory & Supply Chain | :white_check_mark: Complete |
+| **61** | [Network Intrusion Detection System](61-network-intrusion-detection-system/) | `61-network-intrusion-detection-system/` | Scapy & SQLite | Cybersecurity & Network Defense | :white_check_mark: Complete |
 
 ---
 
