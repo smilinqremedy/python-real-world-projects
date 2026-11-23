@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Projects](https://img.shields.io/badge/Projects-39%20Complete-brightgreen.svg)](#portfolio-projects)
+[![Projects](https://img.shields.io/badge/Projects-40%20Complete-brightgreen.svg)](#portfolio-projects)
 
 A curated collection of **25 production-grade, modular real-world applications** built in Python. Each project addresses a distinct operational, financial, logistics, or data management challenge using standard library tools (`sqlite3`, `json`, `datetime`, `unittest`) with clean architectural separation between presentation (CLI), business logic (service layer), and persistent data access.
 
@@ -62,6 +62,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **56** | [Personal Password Security Audit Tool](56-password-security-audit-tool/) | `56-password-security-audit-tool/` | Local In-Memory | Cybersecurity & Audit | :white_check_mark: Complete |
 | **57** | [Customer Subscription & Renewal Management](57-customer-subscription-renewal-management/) | `57-customer-subscription-renewal-management/` | SQLite | SaaS & Recurring Subscriptions | :white_check_mark: Complete |
 | **58** | [CSV Data Cleaning & Validation Tool](58-csv-data-cleaning-validation-tool/) | `58-csv-data-cleaning-validation-tool/` | Pandas & CSV | Data Engineering & Cleansing | :white_check_mark: Complete |
+| **59** | [API Rate Limiting & Monitoring System](59-api-rate-limiting-monitoring/) | `59-api-rate-limiting-monitoring/` | FastAPI & SQLite | Web Security & API Traffic Control | :white_check_mark: Complete |
 
 ---
 
