@@ -1,0 +1,8 @@
+# Project 97: AI-Powered Human Activity Recognition System
+
+.cache/
+*.npz
+*.pt
+*.csv
+!samples/*.csv
+outputs/

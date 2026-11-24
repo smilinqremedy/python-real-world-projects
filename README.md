@@ -89,6 +89,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **94** | [AI-Powered Voice-to-Text Transcription System](94-voice-to-text-transcription/) | `94-voice-to-text-transcription/` | Speech Recognition, Wave & Levenshtein | Speech Processing & NLP | :white_check_mark: Complete |
 | **95** | [AI-Powered Sign Language Recognition System](95-sign-language-recognition/) | `95-sign-language-recognition/` | MediaPipe, NumPy & Hand Landmarks | Computer Vision & Assistive Tech | :white_check_mark: Complete |
 | **96** | [Intelligent Document Question-Answering System](96-document-question-answering/) | `96-document-question-answering/` | RAG, Vector Embeddings & Cosine Search | NLP & Information Retrieval | :white_check_mark: Complete |
+| **97** | [AI-Powered Human Activity Recognition System](97-human-activity-recognition/) | `97-human-activity-recognition/` | 1D-CNN, IMU Sensors & Time-Series | Deep Learning & Wearable AI | :white_check_mark: Complete |
 
 ---
 
