@@ -85,6 +85,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **85** | [Employee Resignation Prediction System](85-employee-attrition-prediction/) | `85-employee-attrition-prediction/` | Scikit-learn, Pandas & SQLite | People Analytics & Workforce Retention | :white_check_mark: Complete |
 | **91** | [AI-Based Medical Image Classification System](91-medical-image-classification/) | `91-medical-image-classification/` | CNN, NumPy, Pillow & Streamlit | Deep Learning & Medical Imaging | :white_check_mark: Complete |
 | **92** | [Real-Time Object Detection System](92-real-time-object-detection/) | `92-real-time-object-detection/` | YOLO, OpenCV & NMS | Computer Vision & Object Detection | :white_check_mark: Complete |
+| **93** | [AI-Powered Facial Recognition Attendance System](93-facial-recognition-attendance/) | `93-facial-recognition-attendance/` | SQLite, PBKDF2 & Ethical Biometrics | Biometrics & Enterprise Access | :white_check_mark: Complete |
 
 ---
 

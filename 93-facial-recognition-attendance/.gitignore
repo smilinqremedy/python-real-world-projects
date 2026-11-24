@@ -1,0 +1,8 @@
+# Project 93: AI-Powered Facial Recognition Attendance System
+
+.cache/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+!sample_report.csv
