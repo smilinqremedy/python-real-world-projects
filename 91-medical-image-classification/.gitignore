@@ -1,0 +1,10 @@
+# Project 91: AI-Based Medical Image Classification System
+
+.cache/
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
+!samples/*.png
+!samples/*.jpg

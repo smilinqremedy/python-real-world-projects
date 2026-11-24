@@ -83,6 +83,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **83** | [Electricity Consumption Forecasting](83-electricity-consumption-forecasting/) | `83-electricity-consumption-forecasting/` | Statsmodels, Scikit-learn & ARIMA | Time-Series Forecasting & Energy | :white_check_mark: Complete |
 | **84** | [Plant Disease Image Classification System](84-plant-disease-image-classification/) | `84-plant-disease-image-classification/` | PyTorch, OpenCV & CNN | Agricultural Vision & Plant Pathology | :white_check_mark: Complete |
 | **85** | [Employee Resignation Prediction System](85-employee-attrition-prediction/) | `85-employee-attrition-prediction/` | Scikit-learn, Pandas & SQLite | People Analytics & Workforce Retention | :white_check_mark: Complete |
+| **91** | [AI-Based Medical Image Classification System](91-medical-image-classification/) | `91-medical-image-classification/` | CNN, NumPy, Pillow & Streamlit | Deep Learning & Medical Imaging | :white_check_mark: Complete |
 
 ---
 
