@@ -1,0 +1,13 @@
+# Project 100: AI-Powered Personal Learning Assistant
+
+.cache/
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+*.txt
+!samples/*.txt
+!samples/*.pdf
+outputs/
+output_*.csv
+output_*.json
