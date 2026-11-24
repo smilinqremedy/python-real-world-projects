@@ -1,0 +1,6 @@
+numpy>=1.24.0
+Pillow>=9.5.0
+streamlit>=1.25.0
+# Optional for full OpenCV and Ultralytics YOLO inference:
+# opencv-python-headless>=4.8.0
+# ultralytics>=8.0.0

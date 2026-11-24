@@ -1,0 +1,11 @@
+# Project 92: Real-Time Object Detection System
+
+.cache/
+*.pt
+*.onnx
+*.weights
+*.mp4
+*.avi
+outputs/
+output_*.png
+output_*.jpg
