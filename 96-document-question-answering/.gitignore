@@ -1,0 +1,9 @@
+# Project 96: Intelligent Document Question-Answering System
+
+.cache/
+*.pdf
+*.txt
+!samples/*.txt
+!samples/*.pdf
+rag_index.*
+vector_store.*
