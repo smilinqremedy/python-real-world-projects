@@ -1,0 +1,12 @@
+# Project 94: AI-Powered Voice-to-Text Transcription System
+
+.cache/
+*.wav
+*.mp3
+*.flac
+*.ogg
+!samples/*.wav
+outputs/
+output_*.txt
+output_*.json
+output_*.srt
