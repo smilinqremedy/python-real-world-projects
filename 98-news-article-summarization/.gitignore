@@ -1,0 +1,8 @@
+# Project 98: AI-Powered News Article Summarization System
+
+.cache/
+*.txt
+!samples/*.txt
+outputs/
+output_*.txt
+output_*.json
