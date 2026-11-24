@@ -91,6 +91,7 @@ Every project in this repository adheres to consistent software engineering stan
 | **96** | [Intelligent Document Question-Answering System](96-document-question-answering/) | `96-document-question-answering/` | RAG, Vector Embeddings & Cosine Search | NLP & Information Retrieval | :white_check_mark: Complete |
 | **97** | [AI-Powered Human Activity Recognition System](97-human-activity-recognition/) | `97-human-activity-recognition/` | 1D-CNN, IMU Sensors & Time-Series | Deep Learning & Wearable AI | :white_check_mark: Complete |
 | **98** | [AI-Powered News Article Summarization System](98-news-article-summarization/) | `98-news-article-summarization/` | TextRank, NER & ROUGE Evaluation | NLP & Automated Summarization | :white_check_mark: Complete |
+| **99** | [AI-Based Financial Fraud Detection System](99-ai-financial-fraud-detection/) | `99-ai-financial-fraud-detection/` | Isolation Forest, Weighted Classifier & PR-AUC | Financial Cybersecurity & Anomaly Detection | :white_check_mark: Complete |
 
 ---
 
