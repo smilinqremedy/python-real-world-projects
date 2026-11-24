@@ -1,0 +1,6 @@
+numpy>=1.24.0
+Pillow>=9.5.0
+streamlit>=1.25.0
+# Optional for full MediaPipe camera feed and skeleton detection:
+# mediapipe>=0.10.0
+# opencv-python-headless>=4.8.0

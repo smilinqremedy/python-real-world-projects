@@ -1,0 +1,9 @@
+# Project 95: AI-Powered Sign Language Recognition System
+
+.cache/
+*.npz
+*.pt
+*.png
+*.jpg
+*.jpeg
+!samples/*.png
